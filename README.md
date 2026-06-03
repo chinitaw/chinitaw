@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de Ingeniería en Computación.
+Ingeniera en Computación.
 
 💻 Desarrollador Full Stack con experiencia en desarrollo web, aplicaciones móviles y bases de datos.
 
