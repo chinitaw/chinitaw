@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:cindyjasg@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cindyjasg@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
